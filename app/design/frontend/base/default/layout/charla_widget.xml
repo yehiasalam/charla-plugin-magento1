@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <default>
+        <reference name="head">
+            <block type="charla_widget/widgetcode" name="charla_widget" as="charla_widget" template="charla/widget.phtml"/>
+        </reference>
+    </default>
+</layout>

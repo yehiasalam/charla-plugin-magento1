@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Charla_Widget>
+      <version>1.0.0</version>
+    </Charla_Widget>
+  </modules>
+   <global>
+       <blocks>
+           <charla_widget>
+               <class>Charla_Widget_Block</class> <!--Folder where all the blocks are located in your module-->
+           </charla_widget>
+       </blocks>
+   </global>
+  <frontend>
+      <layout>
+          <updates>
+              <module>
+                  <file>charla_widget.xml</file>
+              </module>
+          </updates>
+      </layout>
+  </frontend>
+  <global>
+    <helpers>
+      <widget>
+        <class>Charla_Widget_Helper</class>
+      </widget>
+    </helpers>
+  </global>
+</config> 
