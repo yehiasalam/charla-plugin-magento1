@@ -1,7 +1,7 @@
 Charla Magento 1.x Plugin
 =================
 
-Charla Live Chat Plugin adds the necessary scripts for Charla wdiget to appear on your site. Great Businesses are using Charla Live Chat for their Customer Support and Sales and Lead Generation. Browse to https://getcharla.com for more information.
+Charla Live Chat Plugin adds the necessary scripts for Charla widget to appear on your site. Great Businesses are using Charla Live Chat for their Customer Support and Sales and Lead Generation. Browse to https://getcharla.com for more information.
 
 ## Installation in 3 simple steps
 1. Download the repository as a zip file.
